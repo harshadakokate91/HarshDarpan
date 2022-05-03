@@ -1,8 +1,8 @@
-### Hi there 👋
+                                                      ### Hi there 👋 I am Harshada..
 
 
- I Love Math,Programming and DataSceince.
- I am addicted to learning and growing every day.
+                                                        I Love Math,Programming and DataSceince.
+- I am addicted to learning and growing every day.
 - 🔭 I’m currently working as Data Scientist
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on ...
