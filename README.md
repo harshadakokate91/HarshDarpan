@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Harshada..
-I am addicted to learning and growing every day.
+A passionate Data Analysts and Learning Data Science
 
-
+- I am addicted to learning and growing every day.
 - I Love Math,Programming and DataSceince.
 - I like data insights and currently exploring Machine Learning
 - 👯 I’m looking to collaborate on Data Science Project.
